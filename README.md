@@ -1,4 +1,3 @@
-# trovaz
 # Website TROVAZ Laravel
 
 Website TROVAZ merupakan website untuk pencatatan data TROVAZ yang dapat digunakan pada suatu instansi kesehatan.
@@ -34,6 +33,6 @@ Website ini memiliki 2 sisi pengguna yaitu administrator dan user. Berikut merup
 **Preview**
 
 Login
-https://user-images.githubusercontent.com/56951024/107321884-f53e2100-6ad5-11eb-9705-e635409d1514.jpeg
+![enter image description here](https://user-images.githubusercontent.com/56951024/107321884-f53e2100-6ad5-11eb-9705-e635409d1514.jpeg)
 Admin
-https://user-images.githubusercontent.com/56951024/107321965-1e5eb180-6ad6-11eb-9f6b-a5b1d03a8fb3.jpeg
+![enter image description here](https://user-images.githubusercontent.com/56951024/107321965-1e5eb180-6ad6-11eb-9f6b-a5b1d03a8fb3.jpeg)

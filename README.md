@@ -1,6 +1,6 @@
 # Website TROVAZ Laravel
 
-Website TROVAZ merupakan website untuk pencatatan data TROVAZ yang dapat digunakan pada suatu instansi kesehatan.
+Website TROVAZ merupakan website untuk pencarian event,penginapan,berita di Indonesia.
 
 ## Fitur
 
